@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+~~~
 Name : SYED MUHAMMED ZAHI
 Roll no : 212221230114
 Date of experiment : 9/9/2022
+~~~
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
